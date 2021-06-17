@@ -1,12 +1,12 @@
 # grocery_ninja
 
-> USAGE:
+## USAGE:
 
 $ ruby price_calculator.rb
 
-> EXAMPLE:
+## EXAMPLE:
 
-Please enter all the items purchased separated by a comma
+```Please enter all the items purchased separated by a comma
 
 milk,milk, bread,banana,bread,bread,bread,milk,apple
 
@@ -18,4 +18,4 @@ Apple     1            $0.89
 Banana    1            $0.99  
 
 Total price : $19.02
-You saved $3.45 today.
+You saved $3.45 today.```
