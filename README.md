@@ -18,4 +18,4 @@ Apple     1            $0.89
 Banana    1            $0.99  
 
 Total price : $19.02
-You saved $3.45 today.```
+You saved $3.45 today.
